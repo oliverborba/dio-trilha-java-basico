@@ -1,3 +1,5 @@
+package exercicios_1;
+
 public class SmartTv {
 
     boolean ligada = false;
